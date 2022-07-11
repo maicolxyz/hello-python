@@ -1,2 +1,2 @@
-# hello-python
-Basic and introductory-level Python. 
+# Hello, Python
+Sharing basic and introductory-level Python. 
